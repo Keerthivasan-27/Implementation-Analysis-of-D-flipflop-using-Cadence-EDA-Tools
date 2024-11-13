@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![exp 3 vlsi d ff 3](https://github.com/user-attachments/assets/82ea515b-078c-4e7d-80a1-6248f0cc2f3f)
+
 
 
 
@@ -65,8 +66,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![vlsi exp 3 dff2](https://github.com/user-attachments/assets/d58cbccb-175c-40b9-bad5-a7b8df4e680d)
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +81,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![vlsi exp 3 dff](https://github.com/user-attachments/assets/e9b73e7a-c900-4e85-9b88-e5b748a7a3f4)
+
 
 
  
@@ -94,14 +97,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![exp 3 vlsi d ff 4](https://github.com/user-attachments/assets/ddd39088-9ff7-43ef-897b-17ccd73b3d77)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+ ![vlsi exp 3 dff5](https://github.com/user-attachments/assets/b8d217d1-1464-4283-91b0-a17afdf1c16c)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+![exp 3 vlisi op](https://github.com/user-attachments/assets/eaf24fa5-3cb6-4747-98df-be3a5af13f71)
+
+
 
 
 Results:
